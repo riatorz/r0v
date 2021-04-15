@@ -1,5 +1,5 @@
 # ARDOV :star:
-I was the TEKNOFEST 2020 IEEE BAUN SUALTI CANAVARLARI team member and i was the programmer. I was used RaspberryPi3.
+I was the TEKNOFEST 2020 IEEE BAUN SUALTI CANAVARLARI team member and i was the programmer. I used RPi.
 ## :arrow_right: MANUAL :arrow_left:
 I controlled the ROV with a joystick :video_game: (**There is a lot of input lag. I do not recommend using this way.**)
 ___
